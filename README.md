@@ -2,7 +2,7 @@
 an iOS app that is a simple calculating tool for stock trading
 
 ## Screenshots
-![Alt text](/mambatrader.png?raw=true "screenshot") 
+![Alt text](/mambatraderscreenshot.png?raw=true "screenshot") 
 
 ## Architecture
  
